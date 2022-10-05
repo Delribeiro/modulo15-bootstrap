@@ -1,4 +1,13 @@
 
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
+.card img{
+    width: 355px;
+    height: 200px;
+}
 section {
     padding-bottom: 4rem;
     padding-top: 4rem;
